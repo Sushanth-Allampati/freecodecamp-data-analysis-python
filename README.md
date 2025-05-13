@@ -1,4 +1,4 @@
-# freeCodeCamp – Data Analysis with Python Certification Projects
+# FreeCodeCamp – Data Analysis with Python Certification Projects
 
 This repository contains the five projects I completed for the **Data Analysis with Python** certification from [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/).
 
